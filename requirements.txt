@@ -38,7 +38,7 @@ opt_einsum==3.4.0
 optree==0.13.0
 packaging==24.2
 pandas==2.2.2
-pillow==11.0.0
+pillow==10.0.1
 preprocessing==0.1.13
 protobuf==4.25.5
 Pygments==2.18.0
